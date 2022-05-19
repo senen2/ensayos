@@ -95,9 +95,9 @@ Formulas
 Leucina
 C6H13NO2
 
-Aminoácidos Fórmula química Peso molecular g/mol
+| Aminoácidos  | Fórmula química | Peso molecular g/mol | 
       Essential amino acids
-Isoleucina      C6H13NO2      131.1736 
+Isoleucina |    C6H13NO2   |    131.1736 |
 Leucina         C6H13NO2      131.1736 
 Lisina          C6H14N2O2     146.1882 
 Metionina       C5H11NO2S     149.2124 
