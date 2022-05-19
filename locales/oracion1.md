@@ -3,7 +3,9 @@ Representation and expression
 A wonderful example of the simple underlying principles of nature is the law of gravity,
 
 law of gravity – is –> principles
+
 gravity – part –> nature
+
 law of gravity – explains –> gravity
 
 law of gravity – explains –> gravity
