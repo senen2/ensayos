@@ -94,34 +94,35 @@ Formulas
 
 Leucina
 C6H13NO2
-| Essential amino acids |
-| --- | --- |
+
+Essential amino acids
+
+| Aminoácidos     | Fórmula química | Peso molecular g/mol | 
+| --------------- | ------------- | ---------------------- | 
+| Isoleucina      | C6H13NO2      | 131.1736               |
+| Leucina         | C6H13NO2      | 131.1736               |
+| Lisina          | C6H14N2O2     | 146.1882               |
+| Metionina       | C5H11NO2S     | 149.2124               |
+| La fenilalanina | C9H11NO2      | 165.19                 |
+| Treonina        | C4H9NO3       | 119.1197               |
+| El triptófano   | C11H12N2O2    | 204.2262               |
+| Valina          | C5H11NO2      | 117.1469               |
+| Arginina        | C6H14N4O2     | 174.2017               |
+| Histidina       | C6H9N3O2      | 155.1552               |
 
 
+Nonessential amino acids
 
-| Aminoácidos  | Fórmula química | Peso molecular g/mol | 
-| ------------ | --------------- | ---------------------| 
-| Isoleucina   | C6H13NO2        | 131.1736             |
-| Leucina      | C6H13NO2        | 131.1736             |
-
-
-Lisina          C6H14N2O2     146.1882 
-Metionina       C5H11NO2S     149.2124 
-La fenilalanina C9H11NO2      165.19 
-Treonina        C4H9NO3       119.1197 
-El triptófano   C11H12N2O2    204.2262 
-Valina          C5H11NO2      117.1469 
-Arginina        C6H14N4O2     174.2017 
-Histidina       C6H9N3O2      155.1552 
-      Nonessential amino acids
-Alanina         C3H7NO2        89.0935 
-Asparagina      C4H8N2O3      132.1184 
-Aspartato       C4H7NO4       133.1032 
-Cisteína        C3H7NO2S      121.159 
-Glutamato       C5H9NO4       147.1299 
-Glutamina       C5H10N2O3     146.1451 
-Glicina         C2H5NO2        75.0669 
-Proline         C5H9NO2       115.131 
-Serina          C3H7NO3       105.093 
-Tirosina        C9H11NO3      181.1894 
+| Aminoácidos     | Fórmula química | Peso molecular g/mol | 
+| --------------- | ------------- | ---------------------- | 
+| Alanina         | C3H7NO2       |  89.0935               |
+| Asparagina      | C4H8N2O3      | 132.1184               |
+| Aspartato       | C4H7NO4       | 133.1032               |
+| Cisteína        | C3H7NO2S      | 121.159                |
+| Glutamato       | C5H9NO4       | 147.1299               |
+| Glutamina       | C5H10N2O3     | 146.1451               |
+| Glicina         | C2H5NO2       |  75.0669               |
+| Proline         | C5H9NO2       | 115.131                |
+| Serina          | C3H7NO3       | 105.093                |
+| Tirosina        | C9H11NO3      | 181.1894               |
 
