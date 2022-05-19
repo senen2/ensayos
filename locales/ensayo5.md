@@ -97,8 +97,7 @@ C6H13NO2
 
 Essential amino acids
 
-| Aminoácidos     | Fórmula química | Peso molecular       |
-|                 |                 |     g/mol            |            
+| Aminoácidos     | Fórmula química | Peso molecular g/mol |
 | --------------- | ------------- | ---------------------- | 
 | Isoleucina      | C6H13NO2      | 131.1736               |
 | Leucina         | C6H13NO2      | 131.1736               |
